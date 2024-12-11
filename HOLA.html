@@ -1,0 +1,44 @@
+function describirPersona(p) {
+    console.log('te llamas ', p.nombre, 'y tienes ', p.edad, 'años');
+    p.edad = 25;
+}
+let persona = {
+    nombre : "liz",
+    apellido1: "Rosales",
+    apellido2: 'Montaño',
+    edad: 20,
+    estura: 168,
+}
+console.log(persona);
+console.log('tienes',persona.edad, 'años');
+describirPersona(persona);
+console.log(persona);
+// creamos tenemos tres objetos
+let persona1 = {
+    nombre : 'tania',
+    edad : 41,
+}
+let persona2 = {
+    nombre : 'maria',
+    edad : 50,
+}
+let persona3 = {
+    nombre : 'marcos',
+    edad : 18,
+}
+///creo un array de objetos 
+let personas = [persona1,persona2,persona3];
+console.log(personas);
+console.log(personas[0]);
+console.log(personas[1].edad);
+//personas[0].nombre = 'luis';,
+//let numeros = [14,15,23];
+////////////////////////////////////////////////////////////////////////////////
+for (let i =0; i<personas.length; i++) {
+   console.log('te llamas ',personas[i].nombre, 'y tienes ',personas[i].edad, ' años');  // 1ro.- //
+   describirPersona(personas[i]); //segunda forma de hacer 
+}
+// alternativa al for tradicional
+for (let elem  of personas) {
+    console.log (elem);
+}

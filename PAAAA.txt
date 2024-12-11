@@ -1,0 +1,11 @@
+• Haz modificaciones en los ficheros y actualiza el repositorio 
+mediante una consolidación. 
+• El equipo va a comenzar a desarrollar la nueva pantalla de 
+pedidos y va a requerir una línea de trabajo específica. Crea una 
+rama para esta funcionalidad, por ejemplo, llámala “pedidos”. 
+• Con la rama “pedidos” activa, realiza un cambio en algún fichero 
+y consolida los cambios en dicha rama. 
+• Suponemos que hemos terminado de desarrollar la nueva 
+pantalla de pedidos. Comprueba que los cambios realizados en 
+la rama “pedidos”, no existen en los ficheros de la rama 
+“master”.
