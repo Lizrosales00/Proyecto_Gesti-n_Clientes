@@ -5,6 +5,9 @@ RESPONDE A LAS SIGUIENTES PREGUNTAS:
 1 - ¿CUÁLES SON LOS 2 ELEMENTOS FUNDAMENTALES QUE COMPONEN CUALQUIER DISPOSITIVO INFORMÁTICO? ¿QUÉ ES EL FIRMWARE? SEGÚN LA FUNCIÓN QUE REALIZA, ¿QUÉ TIPOS DE SOFTWARE PODEMOS ENCONTRAR?
 R.- Lo más importante es el hardware y el software ya que un dispositivo informático no funcionaría si no tuviera estos dos componentes. 
 El firmware es un tipo de software que esta dentro del software en la cual se encarga de iniciar y gestionar los componentes de un sistema, para que el hardware funcione correctamente.
-Tipos de software podemos encontrar como el software de aplicación, software de sistema, software de programación y el software malicioso.
+Realiza alguna modificación en algún fichero del directorio de 
+trabajo  (en este caso, mejor si modificas algo que no se haya 
+modificado en las ramas “error” ni “master”). Consolida los 
+cambios.
 (Bibliografía)
 Tipos de Software: Clasificación, Características y Ejemplos (tecnomagazine.net)
