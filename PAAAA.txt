@@ -1,11 +1,16 @@
+• Crea un nuevo directorio en tu sistema de ficheros local. 
+• Inicializa un repositorio en él. 
+• Añade un mínimo de 3 ficheros vacíos al repositorio. 
 • Haz modificaciones en los ficheros y actualiza el repositorio 
 mediante una consolidación. 
-• El equipo va a comenzar a desarrollar la nueva pantalla de 
-pedidos y va a requerir una línea de trabajo específica. Crea una 
-rama para esta funcionalidad, por ejemplo, llámala “pedidos”. 
 • Con la rama “pedidos” activa, realiza un cambio en algún fichero 
 y consolida los cambios en dicha rama. 
 • Suponemos que hemos terminado de desarrollar la nueva 
 pantalla de pedidos. Comprueba que los cambios realizados en 
 la rama “pedidos”, no existen en los ficheros de la rama 
 “master”.
+• Asigna una etiqueta a cada consolidación con un número de 
+versión (v0 la más antigua, v1 la posterior, v2 la más reciente). 
+• Llegados a este punto, como hemos terminado la nueva pantalla 
+de pedidos y la hemos integrado en la rama “master”, podemos 
+borrar la rama “pedidos”, elimínala.
