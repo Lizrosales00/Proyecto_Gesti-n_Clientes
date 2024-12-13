@@ -11,3 +11,8 @@ modificado en las ramas “error” ni “master”). Consolida los
 cambios.
 (Bibliografía)
 Tipos de Software: Clasificación, Características y Ejemplos (tecnomagazine.net)
+• Asigna una etiqueta a cada consolidación con un número de 
+versión (v0 la más antigua, v1 la posterior, v2 la más reciente). 
+• Llegados a este punto, como hemos terminado la nueva pantalla 
+de pedidos y la hemos integrado en la rama “master”, podemos 
+borrar la rama “pedidos”, elimínala.
